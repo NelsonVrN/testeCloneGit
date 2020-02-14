@@ -7,6 +7,8 @@ int main(){
     scanf("%i",&idade);
     idade -= 1;
     printf("idade do usuario menos 1:%i ",idade);
+    idade += 1;
+    printf("idade do usuario mais 1:%i",idade);
 
 
     return 0;
